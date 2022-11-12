@@ -1,0 +1,12 @@
+Different types of RecSys
+1. Content-based
+2. Collaborative 
+3. DL
+4. Hybrid
+
+Defi: Content-based filtering methods use item features to recommend new items that are similar to the user has already liked, based on their previous actions or explicit feedback.
+
+Similarity Measures
+First Embedding the data in dimensions
+Second compute a distance score (e.g. dot product, cosine similarity)
+
